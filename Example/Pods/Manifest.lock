@@ -1,0 +1,14 @@
+PODS:
+  - MisfitSleepSDK (0.1.0)
+
+DEPENDENCIES:
+  - MisfitSleepSDK (from `../`)
+
+EXTERNAL SOURCES:
+  MisfitSleepSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MisfitSleepSDK: 8adc89d4e0d3537ad058116deea510f626df5084
+
+COCOAPODS: 0.39.0
